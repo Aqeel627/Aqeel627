@@ -59,13 +59,6 @@
   </a>
 </p>
 
-### Currently Learning
-
-- 📚 Advanced Angular architecture & state management (NgRx)
-- 🎨 UI/UX Design for accessible and inclusive apps
-- 🤖 Generative AI
-- 🤖 AI integrations using OpenAI APIs
-
 ---
 
 ### Fun Quote
